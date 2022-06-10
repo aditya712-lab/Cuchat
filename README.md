@@ -1,2 +1,2 @@
-# cuchat
-chat application
+# CuChat
+Chat application among University Students
